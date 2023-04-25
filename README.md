@@ -1,6 +1,11 @@
 # DB12
 Automated Vehicle Parking Slot Detection System using Deep Learning
 
+### Team Members
+1. CH. V. S. SURYA NARAYANA
+2. CH. GNANA SAI KRISHNA 
+3. T. VENKATESWARLU
+
 ### Introduction
 
 Identification of parking spots in cities is a challenge especially during peak hours when people arereporting to work. An average of 7-8 minutes is spent by people cruising for a parking spot in the citywhich contributes to 30% of the traffic in the cities (D.Azshwanth, 2019). Most Motorists who parktheir vehicles in Nairobi Central Business District are forced to wake up early so that they can finduncopied parking spots (Musulin, 2017). To alleviate this problem, suggestions on how to solve cityparking spots have been given but majority have not been effective. An example, in Nairobi City, it hadbeen suggested that parking fee should be doubled so as to make people leave their cars at home but theproposal was rejected by the courts (Mediamax Network Limited, 2019). Other suggestions such asincreasing the number of parking spots have also been suggested but the solution is not sustainable dueto the increasing urbanization.
